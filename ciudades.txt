@@ -2,3 +2,5 @@ Medellin
 Samoa
 CDMX
 Cali
+Bogota
+Barranquilla
