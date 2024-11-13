@@ -1,2 +1,5 @@
 Hola mundo
 El veloz murcielago feliz
+
+Pasos para generar un nuevo repo
+- git init
